@@ -192,6 +192,9 @@ export default function Holi() {
             flex-direction: column;
           }
         }
+        .button{
+          size: 25px;
+        }
       `}</style>
 
       <style jsx global>{`
@@ -206,9 +209,6 @@ export default function Holi() {
 
         * {
           box-sizing: border-box;
-        }
-        .button{
-          size: 10px;
         }
       `}</style>
     </div>
