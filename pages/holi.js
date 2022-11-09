@@ -22,6 +22,7 @@ export default function Holi() {
             <h3>Return index.js &rarr;</h3>
             <p>Go to the index.js page</p>
           </a>
+          
 
           <a href="https://nextjs.org/learn" className="card">
             <h3>Learn &rarr;</h3>
@@ -45,7 +46,10 @@ export default function Holi() {
               Instantly deploy your Next.js site to a public URL with Vercel.
             </p>
           </a>
+
+          <button><a href='index'>Go to index</a></button>
         </div>
+
       </main>
 
       <footer>
