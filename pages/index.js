@@ -27,7 +27,9 @@ export default function Home() {
               Instantly deploy your Next.js site to a public URL with Vercel.
             </p>
           </a>
-          
+
+          <button><a href='holi'>Go to holi</a></button>
+
         </div>
       </main>
 
