@@ -14,7 +14,7 @@ export default function Holi() {
         </h1>
 
         <p className="description">
-          My first  app<code>pages/index.js</code>
+          My first  app<code>pages/holi.js</code>
         </p>
 
         <div className="grid">
