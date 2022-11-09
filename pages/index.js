@@ -37,7 +37,7 @@ export default function Home() {
           </a>
 
           <a
-            href="/holi.js"
+            href="holi.js"
             className="card"
           >
             <h3>Deploy &rarr;</h3>
