@@ -47,7 +47,7 @@ export default function Holi() {
             </p>
           </a>
 
-          <button class="button"><a href='index'>Go to index</a></button>
+          <button><a href='index' class="button">Go to index</a></button>
         </div>
 
       </main>
