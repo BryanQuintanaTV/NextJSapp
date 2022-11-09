@@ -47,7 +47,7 @@ export default function Holi() {
             </p>
           </a>
 
-          <button><a href='index'>Go to index</a></button>
+          <button class="button"><a href='index'>Go to index</a></button>
         </div>
 
       </main>
@@ -206,6 +206,9 @@ export default function Holi() {
 
         * {
           box-sizing: border-box;
+        }
+        .button{
+          size: 10px;
         }
       `}</style>
     </div>
